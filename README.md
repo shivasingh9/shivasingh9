@@ -56,12 +56,12 @@
 
 ## Featured Projects
 
-<div align="center">
+<!--<div align="center">
 
 <a href="https://github.com/shivasingh9/AlgoShield_AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivasingh9&repo=AlgoShield_AI&theme=radical&hide_border=true" /></a>
 <a href="https://github.com/shivasingh9/BullRun"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivasingh9&repo=BullRun&theme=radical&hide_border=true" /></a>
 <a href="https://github.com/shivasingh9/Smart-AI-Powered-Renewable-Energy-Planning-Tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivasingh9&repo=Smart-AI-Powered-Renewable-Energy-Planning-Tool&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/shivasingh9/Candidate-Ranking-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivasingh9&repo=Candidate-Ranking-Engine&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/shivasingh9/Candidate-Ranking-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivasingh9&repo=Candidate-Ranking-Engine&theme=radical&hide_border=true" /></a> -->
 
 </div>
 
@@ -80,12 +80,14 @@
 
 <div align="center">
 
+<!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=shivasingh9&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivasingh9&layout=compact&theme=radical&hide_border=true" height="165"/>
-<br/>
+<br/> 
+-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivasingh9&theme=radical&hide_border=true" height="165"/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivasingh9&theme=react-dark&hide_border=true&height=280" width="80%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivasingh9&theme=react-dark&hide_border=true&height=280" width="80%"/> -->
 
 </div>
 
@@ -102,10 +104,33 @@
   Nothing to configure here, it just works once this file is on GitHub.
 -->
 
-## Contribution Snake (optional)
+
+
+## 🐍 Contribution
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/shivasingh9/shivasingh9/output/github-contribution-grid-snake.svg" width="80%"/>
+
+<picture>
+  <!-- Dark Mode -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shivasingh9/shivasingh9/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <!-- Light Mode 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shivasingh9/shivasingh9/output/github-contribution-grid-snake.svg"
+  /> -->
+
+  <!-- Fallback -->
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/shivasingh9/shivasingh9/output/github-contribution-grid-snake-dark.svg"
+    width="90%"
+  />
+</picture>
+
 </div>
 
 <!--
