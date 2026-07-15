@@ -22,9 +22,9 @@ jobs:
         with:
           github_user_name: shivasingh9
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
+            dist/github-contribution-grid-snake.svg?palette=github
+            dist/github-contribution-grid-snake-dark.svg?palette=dracula
+            
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
