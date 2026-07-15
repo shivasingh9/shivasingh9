@@ -89,11 +89,10 @@
 
 </div>
 
-## Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shivasingh9&theme=radical&no-frame=true&row=1&column=6" />
-</div>
+<!--
+## Trophies
+## 🏆 GitHub Trophies
 
 <!--
   Trophies above are a live SVG rendered by github-profile-trophy.vercel.app
