@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![Watch Project Demos](https://img.shields.io/badge/▶_Watch_Project_Demos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](PUT_YOUR_YOUTUBE_CHANNEL_LINK_HERE)
+[![Watch Project Demos](https://img.shields.io/badge/▶_Watch_Project_Demos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCREr5f0nXnueEhwRqehXnXg)
 
 </div>
 
